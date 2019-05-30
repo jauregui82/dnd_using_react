@@ -1,0 +1,22 @@
+.source{
+    width: 200px;
+    border-right: 1px solid #eee;
+    max-height: 10rem;
+    overflow: auto;
+}
+.source ul{
+    width: 100%;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.source ul li{
+    cursor: pointer;
+    padding: 10px;
+    border: solid 1px black;
+}
+
+.source ul li:hover{
+    background: #eee;
+}

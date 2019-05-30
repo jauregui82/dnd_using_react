@@ -1,0 +1,8 @@
+.target{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 10rem;
+    border: solid 1px black;
+    overflow: auto;
+}
