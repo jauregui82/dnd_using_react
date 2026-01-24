@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.23",
     "react": "^16.6.3",
     "react-dnd": "^6.0.0",
     "react-dnd-html5-backend": "^6.0.0",
